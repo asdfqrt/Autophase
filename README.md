@@ -26,6 +26,7 @@ Place your Micrograph dataset in proper path
     └── Resnet_classification.py
 
 metadata.csv must contain "path" and "primary_microconstituent" values of dataset
+
 Or, you can just use sameple files in this repository
 
 ## Train
