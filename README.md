@@ -27,12 +27,17 @@ Place your Micrograph dataset in proper path
 
 metadata.csv must contain "path" and "primary_microconstituent" values of dataset
 
-Or, you can just use sameple files in this repository
+Or, you can just use sameple files in this repository for 
 
 ## Train
-
+Run
+    $ python
+    
 ## Test
+    $ python
 
+## Result
+Some fancy image descriptions
 ! The test result will be recored in /data/results.csv
 
 ## References
