@@ -1,7 +1,7 @@
 # Fe phase classification
 
 Pytorch implementation of Phase classification of high carbon steel using pre-trained CNN model.
-This project is still in progress.
+This project is still in progress, but still shows decent classification capabilites.
 
 ## Environmnet
 - Python3
@@ -27,7 +27,7 @@ Place your Micrograph dataset in proper path
 
 metadata.csv must contain "path" and "primary_microconstituent" values of dataset
 
-Or, you can just use sameple files in this repository for 
+Or, you can just use sameple files in this repository for quick testing
 
 ## Train
 Run
@@ -38,7 +38,8 @@ Run
 
 ## Result
 Some fancy image descriptions
-! The test result will be recored in /data/results.csv
+
+! The classification result will be recored in /data/results.csv
 
 ## References
 - Dataset: UHCSDB: UltraHigh Carbon Steel Micrograph DataBase(https://doi.org/10.1007/s40192-017-0097-0)
