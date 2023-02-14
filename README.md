@@ -13,16 +13,16 @@ Place your Micrograph dataset in proper path
 
     Fe phase classification
     ├── data
-    │    ├── For Training
-    │    │     ├── sample_train
-    │    │     │    ├── xxx.png
-    │    │     │    ├── yyy.png
-    │    │     │    └── ...
-    │    │     ├── sample_test
-    │    │     │    ├── aaa.png
-    │    │     │    ├── bbb.png
-    │    │     │    └── ...
-    │    │     └── metadata.csv
+    │    └── For Training
+    │         ├── sample_train
+    │         │    ├── xxx.png
+    │         │    ├── yyy.png
+    │         │    └── ...
+    │         ├── sample_test
+    │         │    ├── aaa.png
+    │         │    ├── bbb.png
+    │         │    └── ...
+    │         └── metadata.csv
     └── Resnet_classification.py
 
 metadata.csv must contain "path" and "primary_microconstituent" values of dataset
