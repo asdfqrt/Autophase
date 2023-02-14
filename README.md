@@ -45,4 +45,4 @@ Some fancy image descriptions
 * The classification result will be recored in /data/results.csv
 
 ## References
-- Dataset: UHCSDB: UltraHigh Carbon Steel Micrograph DataBase(https://doi.org/10.1007/s40192-017-0097-0)
+- Dataset: [UHCSDB: UltraHigh Carbon Steel Micrograph DataBase](https://www.kaggle.com/datasets/safi842/highcarbon-micrographs)
