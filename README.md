@@ -66,7 +66,7 @@ It will automatecally train & test images in the directory folders.
 2. Accuracy before training
 3. Train images
 4. Accuracy after training
-5. predict Visualization(default set to 100 images)
+5. Visualization(default set to 100 images)
 
 ## Result
 ![image (2)](https://user-images.githubusercontent.com/79451613/219881948-f062f3ab-4b01-42e8-a794-cd4cc251b267.png)
