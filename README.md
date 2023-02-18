@@ -1,6 +1,7 @@
-# Fe phase classification
+# Deep Learning-Based Fe Phase Classification
+![outline](https://user-images.githubusercontent.com/79451613/219885029-596707b1-806a-4fc2-85c7-c6eea6dbc51e.png)
 
-Pytorch implementation of Phase classification of Fe phase using pre-trained CNN model. This program has the ability to classify iron phases from SEM photographs of iron.
+Pytorch implementation of Phase classification of Fe phase using pre-trained CNN model. This program has the ability to classify iron phases from SEM photographs of steel.
 
 ## Environmnet
 - Python3
