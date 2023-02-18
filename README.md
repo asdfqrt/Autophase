@@ -53,12 +53,10 @@ This is a feature that transforms and copies images from classes with a small am
 The Data Augmentation data will be saved as `dataaug.pt`.
 
 * If your training dataset is already balanced, to off the data augmentation 
-
-change `Imbalance_correction, Overwrite = False,False`
+`Imbalance_correction, Overwrite = False,False`
 
 * If this is not your first time using this program and the dataaug.pt file already exists
-
-change `Imbalance_correction, Overwrite = True,False`
+`Imbalance_correction, Overwrite = True,False`
 
 ## Run
 Run `Resnet_classification.py`
