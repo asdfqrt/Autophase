@@ -36,7 +36,7 @@ metadata.csv must contain "path" and "primary_microconstituent" values of datase
 Or, you can just use sameple files in this repository for quick testing
 
 ### Hyperparameters
-In `Resnet_clssification.py`, you can change
+In `Resnet_classification.py`, you can change
 * File path
 * Imbalance_correction, Overwrite
 * batch_size
