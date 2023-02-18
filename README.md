@@ -45,11 +45,17 @@ In `Resnet_calssification.py`, you can change
 It's okay to use the default
 
 ## Data Augmentation
-If your dataset is biased, model's predictive performance may suffer. To correct the imbalance, this program has a data augmentation feature. This is a feature that transforms and copies images from classes with a small amount of images and trains it as much as a major class.
+If your dataset is biased, model's predictive performance may suffer.
+
+To correct the imbalance, this program has a data augmentation feature.
+
+This is a feature that transforms and copies images from classes with a small amount of images and trains it as much as a major class.
 The Data Augmentation data will be saved as `dataaug.pt`.
-If your training dataset is already balanced, 
+
+* If your training dataset is already balanced, to off the data augmentation 
 change `Imbalance_correction, Overwrite = False,False`
-If this is not your first time using this program and the dataaug.pt file already exists
+
+* If this is not your first time using this program and the dataaug.pt file already exists
 change `Imbalance_correction, Overwrite = True,False`
 
 ## Run
