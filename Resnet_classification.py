@@ -26,10 +26,10 @@ test_img_dir = 'data/For Training/test'
 Imbalance_correction, Overwrite = True, True
 ######################
 # Hyperparameters
-batch_size = 16
+batch_size = 4
 nb_epochs = 10
-learning_rate = 0.005
-resize_level = (200,200)
+learning_rate = 0.001
+resize_level = (400,400)
 model = models.resnet152(pretrained=True).to(device)
 ######################
 
