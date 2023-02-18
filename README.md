@@ -1,6 +1,6 @@
 # Fe phase classification
 
-Pytorch implementation of Phase classification of Fe phase using pre-trained CNN model.
+Pytorch implementation of Phase classification of Fe phase using pre-trained CNN model. This program has the ability to classify iron phases from SEM photographs of iron. In my experimental conditions, I achieved about 80% accuracy, and expect higher accuracy depending on your dataset and the model you use.
 
 ## Environmnet
 - Python3
