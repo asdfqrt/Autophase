@@ -1,7 +1,6 @@
 # Fe phase classification
 
 Pytorch implementation of Phase classification of high carbon steel using pre-trained CNN model.
-This project is still in progress, but still shows decent classification capabilites.
 
 ## Environmnet
 - Python3
