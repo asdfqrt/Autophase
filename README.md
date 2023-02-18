@@ -76,7 +76,7 @@ It will automatecally train & test images in the directory folders.
 
 * The classification result will be recored in data/results.csv
 * With the hyperparameter settings of this project, I achieved **91% accuracy** of phase classification
-* Expect higher accuracy depending on your dataset size and the model(ex.Coca) you use.
+* Expect higher accuracy depending on your dataset (higher resolution, dataset size..) and the model(ex.Coca) you use.
 ## References
 - Dataset: [UHCSDB: UltraHigh Carbon Steel Micrograph DataBase](https://www.kaggle.com/datasets/safi842/highcarbon-micrographs)
 
