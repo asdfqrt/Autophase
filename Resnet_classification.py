@@ -29,7 +29,7 @@ Imbalance_correction, Overwrite = True, True
 batch_size = 16
 nb_epochs = 10
 learning_rate = 0.005
-resize_level = (100,100)
+resize_level = (200,200)
 model = models.resnet152(pretrained=True).to(device)
 ######################
 
