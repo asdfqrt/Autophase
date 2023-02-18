@@ -40,9 +40,9 @@ Run
     $ python
 
 ## Result
-https://user-images.githubusercontent.com/79451613/219881822-6c564770-7b73-4081-b9ea-2ddbddd7f4c7.png
+![image (2)](https://user-images.githubusercontent.com/79451613/219881948-f062f3ab-4b01-42e8-a794-cd4cc251b267.png)
 
-* The classification result will be recored in /data/results.csv
+* The classification result will be recored in data/results.csv
 
 ## References
 - Dataset: [UHCSDB: UltraHigh Carbon Steel Micrograph DataBase](https://www.kaggle.com/datasets/safi842/highcarbon-micrographs)
