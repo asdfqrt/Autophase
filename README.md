@@ -1,6 +1,6 @@
 # Fe phase classification
 
-Pytorch implementation of Phase classification of Fe phase using pre-trained CNN model. This program has the ability to classify iron phases from SEM photographs of iron. In my experimental conditions, I achieved about 80% accuracy, and expect higher accuracy depending on your dataset and the model you use.
+Pytorch implementation of Phase classification of Fe phase using pre-trained CNN model. This program has the ability to classify iron phases from SEM photographs of iron.
 
 ## Environmnet
 - Python3
@@ -66,7 +66,7 @@ It will automatecally train & test images in the directory folders.
 ![image (2)](https://user-images.githubusercontent.com/79451613/219881948-f062f3ab-4b01-42e8-a794-cd4cc251b267.png)
 
 * The classification result will be recored in data/results.csv
-
+* In my experimental conditions, I achieved about 80% accuracy, and expect higher accuracy depending on your dataset and the model you use.
 ## References
 - Dataset: [UHCSDB: UltraHigh Carbon Steel Micrograph DataBase](https://www.kaggle.com/datasets/safi842/highcarbon-micrographs)
 
