@@ -40,7 +40,7 @@ Run
     $ python
 
 ## Result
-Some fancy image descriptions
+https://user-images.githubusercontent.com/79451613/219881822-6c564770-7b73-4081-b9ea-2ddbddd7f4c7.png
 
 * The classification result will be recored in /data/results.csv
 
