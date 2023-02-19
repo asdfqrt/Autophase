@@ -7,7 +7,7 @@
 
 Pytorch implementation of Phase classification of Fe phase using pre-trained CNN model.
 
-Despite numerous studies on the mechanical and chemical properties of iron, phase classification is still an expensive process that relies on manual labor by experts. This project aims to leverage the image analysis capabilities of deep learning to automatically classify Fe phases from SEM images.
+Autophase is an automated classification system for identifying Fe phases in Scanning Electron Microscope (SEM) images using deep learning. This project aims to overcome the difficulties in the traditional manual classification method, which is both time-consuming and error-prone. By leveraging a pre-trained convolutional neural network (CNN) model and fine-tuning it on the dataset, the system can achieve high classification accuracy, **91%**.
 
 ## Environmnet
 - Python3
@@ -80,10 +80,10 @@ It will automatecally train & test images in the directory folders.
 ## Result
 ![image (2)](https://user-images.githubusercontent.com/79451613/219881948-f062f3ab-4b01-42e8-a794-cd4cc251b267.png)
 
-* The classification accuracy of our project was **91%**. This is a testament to the effectiveness of the approach used, and demonstrates that it can be efficiently utilized in research and industry.
+* The classification accuracy of this project was **91%**. This high level of accuracy demonstrates the effectiveness of my approach and its potential to be applied in real-world research and industrial settings.
 * Expect higher accuracy depending on your dataset (higher resolution, dataset size..) and the model(ex.Coca) you use.
 ## References
 - Dataset: [UHCSDB: UltraHigh Carbon Steel Micrograph DataBase](https://www.kaggle.com/datasets/safi842/highcarbon-micrographs)
 
 ## Autor
-[asdfqrt](https://github.com/asdfqrt)
+[asdfqrt](https://github.com/asdfqrt) / forsecretactive@gmail.com

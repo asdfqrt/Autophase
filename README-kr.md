@@ -7,7 +7,7 @@
 
 사전 학습된 CNN 모델을 사용하여 철의 상(相) 분류를 Pytorch로 구현하였습니다.
 
-철의 기계적, 화학적 특성에 대한 수많은 연구에도 불구하고 철의 상 분류에는 여전히 전문가가 미세구조를 분석하는 수작업이 필요하며, 이는 시간과 비용이 많이 소요됩니다. 이 프로젝트는 딥러닝의 이미지 분석 기능을 활용하여 SEM 이미지에서 철의 상을 자동으로 분류하는 것에 대한 내용입니다.
+AutoPhase는 딥러닝을 이용해 주사전자현미경(SEM) 이미지에서 Fe 상을 식별하는 자동화된 분류 시스템입니다. 철의 기계적, 화학적 특성에 대한 수많은 연구에도 불구하고 철의 상 분류에는 여전히 전문가가 미세구조를 분석하는 수작업이 필요하며, 이는 시간과 비용이 많이 소요됩니다. 이 프로젝트는 기존 수동 분류 방법의 어려움을 극복하는 것을 목표로 합니다. 사전 학습된 컨볼루션 신경망(CNN) 모델을 활용하고 데이터 세트에 맞게 미세 조정함으로써 시스템은 **91%** 의 높은 분류 정확도를 달성하였습니다.
 
 ## 환경
 - Python3
@@ -37,7 +37,7 @@
 
 metadata.csv는 사진의 파일명 "path"와 상 "primary_microconstituent"의 값이 포함되어야 합니다
 
-* 다른 설정없이 이 저장소에 있는 파일들을 그대로 다운받기만 해도 테스트 해볼 수 있습니다
+* 다른 설정없이 이 저장소에 있는 파일들을 그대로 다운받아 테스트 해볼 수 있습니다
 
 ### 하이퍼 파라미터
 `Resnet_classification.py` 에서 해당 값들을 조절할 수 있습니다.
@@ -85,7 +85,7 @@ metadata.csv는 사진의 파일명 "path"와 상 "primary_microconstituent"의 
 * 데이터 셋의 해상도나 크기 개선, 타 모델(ex.CoCa) 적용을 통해 정확도를 개선 할 수 있습니다.
 
 ## 참조
-- 사용된 Fe 이미지 데이터: [UHCSDB: UltraHigh Carbon Steel Micrograph DataBase](https://www.kaggle.com/datasets/safi842/highcarbon-micrographs)
+- Fe 이미지 데이터: [UHCSDB: UltraHigh Carbon Steel Micrograph DataBase](https://www.kaggle.com/datasets/safi842/highcarbon-micrographs)
 
 ## 제작자
-[asdfqrt](https://github.com/asdfqrt)
+[asdfqrt](https://github.com/asdfqrt) / forsecretactive@gmail.com
