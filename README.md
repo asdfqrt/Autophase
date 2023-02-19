@@ -3,7 +3,7 @@
 
 Pytorch implementation of Phase classification of Fe phase using pre-trained CNN model.
 
-Despite numerous studies on the mechanical and chemical properties of iron and how they change with temperature, phase classification is still an expensive process that relies on manual labor by experts. This project aims to leverage the image analysis capabilities of deep learning to automatically classify Fe phases from SEM images.
+Despite numerous studies on the mechanical and chemical properties of iron, phase classification is still an expensive process that relies on manual labor by experts. This project aims to leverage the image analysis capabilities of deep learning to automatically classify Fe phases from SEM images.
 
 ## Environmnet
 - Python3
