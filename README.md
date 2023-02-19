@@ -9,7 +9,7 @@ Despite numerous studies on the mechanical and chemical properties of iron, phas
 - Python3
 - Pytorch
 
-## Getting stared
+## Getting Started
 ### Dataset
 Place your Micrograph dataset in proper path
 
