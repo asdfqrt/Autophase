@@ -80,7 +80,7 @@ It will automatecally train & test images in the directory folders.
 ## Result
 ![image (2)](https://user-images.githubusercontent.com/79451613/219881948-f062f3ab-4b01-42e8-a794-cd4cc251b267.png)
 
-* I achieved **91% ACCURACY** of Fe phase classification in this project, 
+* The project was able to achieve a classification accuracy of **91%**, which is a testament to the effectiveness of the approach used.
 * Expect higher accuracy depending on your dataset (higher resolution, dataset size..) and the model(ex.Coca) you use.
 ## References
 - Dataset: [UHCSDB: UltraHigh Carbon Steel Micrograph DataBase](https://www.kaggle.com/datasets/safi842/highcarbon-micrographs)

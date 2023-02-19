@@ -1,6 +1,7 @@
 🌍
 *[English](README.md) ∙ [한국어](README-kr.md)*
 
+
 # AutoPhase: Pre-trained CNN 모델을 이용한 자동화 된 Fe의 상 분류
 ![outline](https://user-images.githubusercontent.com/79451613/219885029-596707b1-806a-4fc2-85c7-c6eea6dbc51e.png)
 
@@ -80,8 +81,8 @@ metadata.csv는 사진의 파일명 "path"와 상 "primary_microconstituent"의 
 ## 결과
 ![image (2)](https://user-images.githubusercontent.com/79451613/219881948-f062f3ab-4b01-42e8-a794-cd4cc251b267.png)
 
-* 본 프로그램은 **91% 정확도** 로 철의 상을 분류해낼 수 있습니다
-* 더 좋은 화질, 더 많은 양의 사진을 데이터 셋으로 사용하거나 다른 모델(ex.CoCa)을 사용해 더 높은 정확도를 낼 수 있습니다.
+* 이 프로젝트는 **91%**의 분류 정확도를 달성하여 실 연구 및 산업현장에 적용될 수 있을만큼 효율적입니다.
+* 데이터 셋의 해상도나 크기 개선, 타 모델(ex.CoCa) 적용을 통해 정확도를 개선 할 수 있습니다.
 
 ## 참조
 - 사용된 Fe 이미지 데이터: [UHCSDB: UltraHigh Carbon Steel Micrograph DataBase](https://www.kaggle.com/datasets/safi842/highcarbon-micrographs)
