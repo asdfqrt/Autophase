@@ -5,7 +5,7 @@
 # AutoPhase: Automated Fe Phase Classification using Pre-trained CNN Model
 ![outline](https://user-images.githubusercontent.com/79451613/219885029-596707b1-806a-4fc2-85c7-c6eea6dbc51e.png)
 
-Pytorch implementation of Phase classification of Fe phase using pre-trained CNN model.
+*Pytorch implementation of Phase classification of Fe phase using pre-trained CNN model.*
 
 Autophase is an automated classification system for identifying Fe phases in Scanning Electron Microscope (SEM) images using deep learning. This project aims to overcome the difficulties in the traditional manual classification method, which is both time-consuming and error-prone. By leveraging a pre-trained convolutional neural network (CNN) model and fine-tuning it on the dataset, the system can achieve high classification accuracy, **91%**.
 
