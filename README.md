@@ -1,4 +1,4 @@
-# Deep Learning-Based Fe Phase Classification
+# AutoPhase: Automated Fe Phase Classification using Pre-trained CNN Model
 ![outline](https://user-images.githubusercontent.com/79451613/219885029-596707b1-806a-4fc2-85c7-c6eea6dbc51e.png)
 
 Pytorch implementation of Phase classification of Fe phase using pre-trained CNN model.
