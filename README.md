@@ -3,7 +3,7 @@
 
 
 # AutoPhase: Automated Steel Phase Classification using Pre-trained CNN Model
-*Pytorch implementation of Phase classification of Steel phase using pre-trained CNN model.*
+*Pytorch implementation of Phase classification of Steel using pre-trained CNN model.*
 
 ![infogra1](https://user-images.githubusercontent.com/79451613/220185276-3c6c9ba2-b594-4b9a-9785-90dd60598cae.png)
 ![outline](https://user-images.githubusercontent.com/79451613/219885029-596707b1-806a-4fc2-85c7-c6eea6dbc51e.png)
