@@ -2,10 +2,11 @@
 *[English](README.md) ∙ [한국어](README-kr.md)*
 
 # AutoPhase: Pre-trained CNN 모델을 이용한 자동화 된 철강의 상 분류
+*Pytorch와 사전 학습된 CNN 모델을 사용한 철강의 상(相) 분류 구현.*
+
 ![infogra-kr](https://user-images.githubusercontent.com/79451613/220185273-f14b9c75-2f7d-4fde-8340-654a2ebd4934.png)
 ![outline](https://user-images.githubusercontent.com/79451613/219885029-596707b1-806a-4fc2-85c7-c6eea6dbc51e.png)
 
-*Pytorch와 사전 학습된 CNN 모델을 사용한 철강의 상(相) 분류 구현.*
 
 AutoPhase는 딥러닝을 이용해 주사전자현미경(SEM) 이미지에서 철강 상을 식별하는 자동화된 분류 시스템입니다. 철강의 기계적, 화학적 특성에 대한 수많은 연구에도 불구하고 상 분류에는 여전히 전문가가 미세구조를 분석하는 수작업이 필요하며, 이는 시간과 비용이 많이 소요됩니다. 이 프로젝트는 딥러닝을 이용하여 자동화된 분류 시스템을 개발하고, 이를 통해 전문가에 의한 수작업 분류 방법의 한계를 극복하는 것을 목표로 합니다. 사전 학습된 컨볼루션 신경망(CNN) 모델을 활용하고 데이터 세트에 맞게 미세 조정함으로써 시스템은 **91%** 의 높은 분류 정확도를 달성하였습니다.
 
