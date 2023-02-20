@@ -2,12 +2,12 @@
 *[English](README.md) ∙ [한국어](README-kr.md)*
 
 
-# AutoPhase: Pre-trained CNN 모델을 이용한 자동화 된 Fe의 상 분류
+# AutoPhase: Pre-trained CNN 모델을 이용한 자동화 된 철강의 상 분류
 ![outline](https://user-images.githubusercontent.com/79451613/219885029-596707b1-806a-4fc2-85c7-c6eea6dbc51e.png)
 
-*Pytorch와 사전 학습된 CNN 모델을 사용한 철의 상(相) 분류 구현.*
+*Pytorch와 사전 학습된 CNN 모델을 사용한 철강의 상(相) 분류 구현.*
 
-AutoPhase는 딥러닝을 이용해 주사전자현미경(SEM) 이미지에서 Fe 상을 식별하는 자동화된 분류 시스템입니다. 철의 기계적, 화학적 특성에 대한 수많은 연구에도 불구하고 철의 상 분류에는 여전히 전문가가 미세구조를 분석하는 수작업이 필요하며, 이는 시간과 비용이 많이 소요됩니다. 이 프로젝트는 딥러닝을 이용하여 자동화된 분류 시스템을 개발하고, 이를 통해 전문가에 의한 수작업 분류 방법의 한계를 극복하는 것을 목표로 합니다. 사전 학습된 컨볼루션 신경망(CNN) 모델을 활용하고 데이터 세트에 맞게 미세 조정함으로써 시스템은 **91%** 의 높은 분류 정확도를 달성하였습니다.
+AutoPhase는 딥러닝을 이용해 주사전자현미경(SEM) 이미지에서 철강 상을 식별하는 자동화된 분류 시스템입니다. 철의 기계적, 화학적 특성에 대한 수많은 연구에도 불구하고 철의 상 분류에는 여전히 전문가가 미세구조를 분석하는 수작업이 필요하며, 이는 시간과 비용이 많이 소요됩니다. 이 프로젝트는 딥러닝을 이용하여 자동화된 분류 시스템을 개발하고, 이를 통해 전문가에 의한 수작업 분류 방법의 한계를 극복하는 것을 목표로 합니다. 사전 학습된 컨볼루션 신경망(CNN) 모델을 활용하고 데이터 세트에 맞게 미세 조정함으로써 시스템은 **91%** 의 높은 분류 정확도를 달성하였습니다.
 
 ## 환경
 - Python3
@@ -81,11 +81,11 @@ metadata.csv는 사진의 파일명 "path"와 상 "primary_microconstituent"의 
 ## 결과
 ![image (2)](https://user-images.githubusercontent.com/79451613/219881948-f062f3ab-4b01-42e8-a794-cd4cc251b267.png)
 
-* 이 프로젝트는 **91%** 의 분류 정확도를 달성하며 우수한 성과를 거두었습니다. 이러한 높은 수준의 정확도는 딥러닝 Fe 상 분류 방식의 효과를 입증하고 실제 연구 및 산업 환경에서 적용될 수 있는 잠재력을 보여줍니다.
+* 이 프로젝트는 **91%** 의 분류 정확도를 달성하며 우수한 성과를 거두었습니다. 이러한 높은 수준의 정확도는 딥러닝 철강 상 분류 방식의 효과를 입증하고 실제 연구 및 산업 환경에서 적용될 수 있는 잠재력을 보여줍니다.
 * 데이터 셋의 해상도나 크기 개선, 타 모델(ex.CoCa) 적용을 통해 정확도를 개선 할 수 있습니다.
 
 ## 참조
-- Fe 이미지 데이터: [UHCSDB: UltraHigh Carbon Steel Micrograph DataBase](https://www.kaggle.com/datasets/safi842/highcarbon-micrographs)
+- 이미지: [UHCSDB: UltraHigh Carbon Steel Micrograph DataBase](https://www.kaggle.com/datasets/safi842/highcarbon-micrographs)
 
 ## 제작자
 [asdfqrt](https://github.com/asdfqrt) / forsecretactive@gmail.com
