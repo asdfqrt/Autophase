@@ -8,6 +8,8 @@
 *Pytorch implementation of Phase classification of Steel phase using pre-trained CNN model.*
 
 Autophase is an automated classification system for identifying Steel phases in Scanning Electron Microscope (SEM) images using deep learning. This project aims to overcome the difficulties in the traditional manual classification method, which is both time-consuming and error-prone. By leveraging a pre-trained convolutional neural network (CNN) model and fine-tuning it on the dataset, the system can achieve high classification accuracy, **91%**.
+## Background
+![infogra1](https://user-images.githubusercontent.com/79451613/220185276-3c6c9ba2-b594-4b9a-9785-90dd60598cae.png)
 
 ## Environmnet
 - Python3
