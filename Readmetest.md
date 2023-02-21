@@ -9,7 +9,7 @@
 ### For someone who are not familiar with material science
 
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/79451613/220240779-df357d88-441b-48d2-bd2a-c095ba37e4c5.png">
-Let's say you're designing a car. You want to make it lighter and stronger than the old ones, so you decide to use a new steel.
+Let's say you're designing a car. You want to make it lighter and stronger than the old ones, so you decide to use a new steel.aaaaaaaaaaaaaaaaaaaa
 
 ---
 
