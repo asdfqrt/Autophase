@@ -31,7 +31,9 @@ Analyzing the microstructure of steel requires an expert to manually observe it 
 
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/79451613/220240781-578af4d5-a18e-49ec-9c18-1e8b1e57d75a.png">
 With Autophase, you don't need an expert - or even a human. Trained by deep learning, the tool can automatically determine the condition of steel very quickly and accurately using only images. 
+
 - Industry:  Car, Construction, Electrical, Aerospace, Oil & Gas 
+
 - Application: Product design, Quality control, Failure analysis, R&D
 
 ---
