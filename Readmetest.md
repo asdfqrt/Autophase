@@ -8,29 +8,29 @@
 ## Steel Phase Analysis
 ### For someone who are not familiar with material science
 
-* <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/79451613/220240779-df357d88-441b-48d2-bd2a-c095ba37e4c5.png">
-* Let's say you're designing a car. You want to make it lighter and stronger than the old ones, so you decide to use a new steel.
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/79451613/220240779-df357d88-441b-48d2-bd2a-c095ba37e4c5.png">
+Let's say you're designing a car. You want to make it lighter and stronger than the old ones, so you decide to use a new steel.
 
 ---
 
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/79451613/220240788-002d12ee-1d7e-46da-aec7-903c26a3a5aa.png">
-* Combine different alloying elements and choose processing methods to create steel with the desired properties.
+Combine different alloying elements and choose processing methods to create steel with the desired properties.
 - like cooking: add salt for seasoning, or chili for heat.
 
 ---
 
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/79451613/220240786-176eca1e-f84b-4240-a561-33ca81f1b850.png">
-* Now what? You want to make sure the steel you made is right. like tasting your food before serving it because it might be salty from too much salt or burnt from too much cooking time. That's what Phase Analysis do.
+Now what? You want to make sure the steel you made is right. like tasting your food before serving it because it might be salty from too much salt or burnt from too much cooking time. That's what Phase Analysis do.
 
 ---
 
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/79451613/220240783-ff50e301-c431-44f0-af05-00936cd26e8d.png">
-* Analyzing the microstructure of steel requires an expert to manually observe it using a microscope, which can be time-consuming and expensive.
+Analyzing the microstructure of steel requires an expert to manually observe it using a microscope, which can be time-consuming and expensive.
 
 ---
 
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/79451613/220240781-578af4d5-a18e-49ec-9c18-1e8b1e57d75a.png">
-* With Autophase, you don't need an expert - or even a human. Trained by deep learning, the tool can automatically determine the condition of steel very quickly and accurately using only images. 
+With Autophase, you don't need an expert - or even a human. Trained by deep learning, the tool can automatically determine the condition of steel very quickly and accurately using only images. 
 - Industry:  Car, Construction, Electrical, Aerospace, Oil & Gas 
 - Application: Product design, Quality control, Failure analysis, R&D
 
