@@ -1,7 +1,6 @@
 🌍
 *[English](README.md) ∙ [한국어](README-kr.md)*
 
-
 # AutoPhase: Automated Steel Phase Classification using Pre-trained CNN Model
 *Pytorch implementation of Phase classification of Steel using pre-trained CNN model.*
 
