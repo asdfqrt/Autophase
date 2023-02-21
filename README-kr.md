@@ -4,7 +4,7 @@
 # AutoPhase: Pre-trained CNN 모델을 이용한 자동화 된 철강의 상 분석
 *Pytorch와 사전 학습된 CNN 모델을 사용한 철강의 상(相) 분석 구현.*
 
-![infogra-kr1](https://user-images.githubusercontent.com/79451613/220236789-c89ced4f-2ecf-4fbe-9940-9628757cdc7e.png)
+![infogra-kr1](https://user-images.githubusercontent.com/79451613/220238793-3941796c-c854-4c33-958b-0270538c38a6.png)
 ![cnn str](https://user-images.githubusercontent.com/79451613/220237019-00eeae2a-ee84-435a-bfa3-0c2de3012ee8.png)
 
 
