@@ -85,5 +85,5 @@ It will automatecally train & test images in the directory folders.
 ## References
 - Dataset: [UHCSDB: UltraHigh Carbon Steel Micrograph DataBase](https://www.kaggle.com/datasets/safi842/highcarbon-micrographs)
 
-## Autor
+## Author
 [asdfqrt](https://github.com/asdfqrt) / forsecretactive@gmail.com
